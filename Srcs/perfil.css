@@ -14,8 +14,8 @@
 }
 
 .fotoperfil {
-    height: 150px;
-    width: 150px;
+    height: 180px;
+    width: 180px;
     border-radius: 100%;
     margin-bottom : 20px;
     margin-top: 50px;
@@ -26,7 +26,6 @@
 
 }
 .redes-sociais {
-    margin-top: 330px;
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -36,13 +35,4 @@
 .redes{
     height: 45px;
     width: 45px;
-}
-
-.redes::before{
-    transition: all .5s;
-    scale: (1);
-}
-
-.redes:hover::before {
-    transform: scale(1.2);
 }

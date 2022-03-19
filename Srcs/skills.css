@@ -1,23 +1,26 @@
 .Habilidades{
-
+    font-size: 20px;
     border: 1px solid red;
     margin-right: 0px;
 }
 
-.alinhar{
-
+.skill{
+    display: flex;
     align-items: center;
+    justify-content: space-between;
+    line-height: 40px;
 }
 
-
 .circles{
+    width: 50%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     margin-left: 80px;
 }
 .circle{
-    height: 15px;
-    width: 15px;
+    height: 25px;
+    width: 25px;
     background-color: black;
+    border-radius:100%;
 }
