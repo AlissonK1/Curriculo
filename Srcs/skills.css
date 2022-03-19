@@ -1,0 +1,10 @@
+.Habilidades{
+    border: 1px solid red;
+    width : 100%;
+}
+
+.circles{
+    height: 15px;
+    width: 15px;
+    background-color: black;
+}
