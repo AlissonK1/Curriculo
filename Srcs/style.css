@@ -14,12 +14,7 @@ body, html {
     margin-left: 100px;
 }
 
-.ladodireito{
-    border: 1px solid blue;
-    display: flex;
-    flex-direction:column;
-    box-sizing: border-box;
-}
+
 
 
 

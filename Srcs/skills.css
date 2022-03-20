@@ -1,7 +1,14 @@
-.Habilidades{
+.habilidades{
     font-size: 20px;
     border: 1px solid red;
     margin-right: 0px;
+}
+
+.habilidades-texto{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 50px;
+    margin-bottom: 35px;
 }
 
 .skill{

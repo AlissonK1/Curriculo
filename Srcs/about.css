@@ -1,3 +1,9 @@
+.about{
+    display: flex;
+    flex-direction:column;
+    box-sizing: border-box;
+}
+
 .nome{
     text-align: center;
     font-size: 50px;
@@ -30,6 +36,16 @@
     line-height: 1.3;
 }
 
-.formação-texto-lista{
-    align-content: center;
+.experiencia{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 70px;
+}
+
+.experiencia-texto{
+    align-items: center;
+    font-size: 24px;
+    margin: 20px;
+    text-align: left;
+    line-height: 1.3;
 }
